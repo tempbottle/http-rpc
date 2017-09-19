@@ -1,0 +1,3 @@
+[submodule "3rdparty/brynet"]
+	path = 3rdparty/brynet
+	url = https://github.com/IronsDu/brynet.git
